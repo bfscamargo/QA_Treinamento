@@ -1,6 +1,6 @@
 # QA_Treinamento
 
-## QA – Aula1
+## QA – Aula1 ☕
 
 ### Módulos
 - Lógica de Programação -	40 horas
