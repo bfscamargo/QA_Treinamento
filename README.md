@@ -1,4 +1,4 @@
-# QA_Treinamento
+# Trilha QA
 
 ### Sumário
 - Lógica de Programação
