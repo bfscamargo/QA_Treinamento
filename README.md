@@ -1,18 +1,18 @@
 # QA_Treinamento
 
-## QA – Aula1 ☕
+### Sumário
+- Lógica de Programação
+- Testes de acessibilidade
+- Noções SQL
+- Git
+- Metodologia Ágil
+- Testes funcionais
+- Automatização de testes
+- Testes de Performance
+- Versionamento código
+- Projeto Integrador
 
-### Módulos
-- Lógica de Programação -	40 horas
-- Testes de acessibilidade -	08 horas
-- Noções SQL -	08 horas
-- Git	04 - horas
-- Metodologia Ágil -	04 horas
-- Testes funcionais -	40 horas
-- Automatização de testes -	28 horas
-- Testes de Performance -	08 horas
-- Versionamento código -	04 horas
-- Projeto Integrador -	24 horas
+## QA – Aula1 ☕
 
 ### O que é Teste de Software?
 Teste de software é um processo dentro de um projeto de desenvolvimento de software.
