@@ -63,4 +63,77 @@ Um defeito encontrado na fase de desenvolvimento do sistema, pode ter o custo de
 - Defender e disseminar cultura de qualidade para todo o time. 
 - Criar automação de testes sempre que for possível.
 **A qualidade é responsabilidade de todos e não apenas do QA.**
- 	
+
+## Aula2
+
+### Testes Funcionais
+
+Introdução
+
+Tipos de testes
+
+## Testes Funcionais
+
+### Caixa Preta
+
+Também chamado de teste funcional, orientado a dado ou orientado a entrada e saída. A técnica de caixa preta avalia o comportamento externo do componente do software.
+
+### Caixa Branca
+
+Conhecido também como teste estrutural ou orientado à lógica. Essa técnica avalia o comportamento interno do comportamento de software. É trabalhado diretamente sobre o código fonte.
+
+### Smoke Test
+
+Conjunto de testes com o intuito de validar se os pontos mais importantes da aplicação continuam funcionando após as alterações.
+
+### Teste de Performance
+
+## Teste de Estresse
+
+O teste de estresse é destinado a avaliar como o sistema responde em condições anormais. Basicamente, é um teste de carga abrangendo cargas de trabalho extremas, memória insuficiente, hardware e serviços indisponíveis ou recursos compartilhados limitados. Normalmente, esses testes são executados para compreender melhor como e em quais áreas o sistema será dividido, para que os planos de contingência e a manutenção de atualização possam ser planejados com bastante antecedência. A utilização dessa técnica é imprescindível para projetos que desenvolvam sistemas críticos, que necessitem de alta eficiência e disponibilidade. A aplicação dessa técnica é indicada durante a fase de teste de sistema.
+
+## Teste de Carga
+
+O teste de carga é uma técnica usada para avaliar os limites operacionais do software. Geralmente, as medições são tomadas com base na taxa de transferência de dados da carga de trabalho e no tempo de resposta da transação. As variações na carga de trabalho normalmente incluem a emulação das cargas de trabalho médias e máximas que ocorrem dentro de tolerâncias operacionais normais. A aplicação dessa técnica é indicada durante as fases de testes de integração e de sistema.
+
+## Teste de estabilidade
+
+Mede o retorno (tempo) do sistema após teste de carga ou teste de estresse.
+
+Homologação
+QA
+Produção
+
+hacking by google
+
+
+## Teste de usabilidade
+
+Garantir que o resultado do teste seja igual para o usuário.
+
+## Teste de regressão
+
+Sempre que uma nova funcionalidade for aplicada, a regressão é executada.
+
+## Teste de segurança
+
+Essa técnica de teste deve validar os requisitos de segurança, visando identificar as vulnerabilidade do sistema. Os objetivos desses testes são: prevenir ataques, detectar vulnerabilidades e preparar medidas de contingência para casos de falhar. A aplicação dessa técnica é indicada durante as fases de testes de integração e de sistema.
+
+## Teste de integração
+
+Tem por objetivo encontrar falhas de integração entre as unidades, e não mais em testar as funcionalidades da mesma. Nesta fase as categorias de testes aplicáveis são: testes de interface, testes de dependências entre os componentes.
+
+## Teste de compatibilidade
+
+O sistema deve se adaptar e funcionar em qualquer dispotivos de tamanho de telas diferentes. 
+
+Exemplo:
+
+- PC
+- Smartphone
+- TV
+
+## Testes exploratórios
+
+Complementar ao teste planejado, feito de forma intuitiva, simula estresse em unidades ou no sistema como um todo.
+
