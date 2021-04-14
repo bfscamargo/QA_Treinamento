@@ -36,8 +36,7 @@ Um defeito encontrado na fase de desenvolvimento do sistema, pode ter o custo de
 - Erro de lógica de programação
 - Erro de interface com outros sistemas
 - Interpretação o equivocada de uma história de desenvolvimento, que por sua vez quando concluída produz um resultado diferente do planejado e especificado
-- Falta de tratamento adequado para erros ou situações
-- adversas no sistema ou na infraestrutura
+- Falta de tratamento adequado para erros ou situações adversas no sistema ou na infraestrutura
 
 ### Consequências de um bug
 - Falhas de segurança
