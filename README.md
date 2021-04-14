@@ -7,6 +7,14 @@
 - Git
 - Metodologia Ágil
 - Testes funcionais
+  - [O que é Teste de Software?](https://github.com/bfscamargo/QA_Treinamento#o-que-%C3%A9-teste-de-software)
+  - [Objetivo do Teste de Software](https://github.com/bfscamargo/QA_Treinamento#import%C3%A2ncia-dos-testes-de-software)
+  - [Importância dos Testes de Software](https://github.com/bfscamargo/QA_Treinamento#import%C3%A2ncia-dos-testes-de-software)
+  - [Quais são as causas mais comuns para um bug existir?
+](https://github.com/bfscamargo/QA_Treinamento#quais-s%C3%A3o-as-causas-mais-comuns-para-um-bug-existir)
+  - [Consequências de um bug](https://github.com/bfscamargo/QA_Treinamento#consequ%C3%AAncias-de-um-bug)
+  - [Qual é o papel do QA nessa hora?](https://github.com/bfscamargo/QA_Treinamento#qual-%C3%A9-o-papel-do-qa-nessa-hora)
+
 - Automatização de testes
 - Testes de Performance
 - Versionamento código
