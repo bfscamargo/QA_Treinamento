@@ -137,3 +137,5 @@ Exemplo:
 
 Complementar ao teste planejado, feito de forma intuitiva, simula estresse em unidades ou no sistema como um todo.
 
+asdf
+
